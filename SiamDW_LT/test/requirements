@@ -1,0 +1,8 @@
+torch==0.3.1
+numpy==1.12.1
+opencv-python==3.1.0.5
+torchvision
+matplotlib==2.2.2
+cffi
+mpi4py
+pytorch_fft
