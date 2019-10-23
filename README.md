@@ -1,4 +1,7 @@
 # SiamDW-based trackers for VOT-2019 challenge
+
+We are hiring talented interns: houwen.peng@microsoft.com
+
 ## SiamDW_D
 
 If you failed to install and run this tracker, please email me (v-hongyy@microsoft.com).
