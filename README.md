@@ -1,7 +1,7 @@
 # SiamDW-based trackers for VOT-2019 challenge
 ## SiamDW_D
 
-If you failed to install and run this tracker, please email me (hongyuan.yu@cripac.ia.ac.cn).
+If you failed to install and run this tracker, please email me (v-hongyy@microsoft.com).
 
 ### Prerequisites
 #### Install python packages
@@ -46,7 +46,7 @@ python parallel_test.py
 ```
 
 ## SiamDW_T
-If you failed run this tracker, please be free to email me (zhangzhipeng2017@ia.ac.cn).
+If you failed run this tracker, please be free to email me (v-zhipz@microsoft.com).
 
 ### Install python packages
 ```
